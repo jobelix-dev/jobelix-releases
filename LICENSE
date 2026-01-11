@@ -1,16 +1,28 @@
-Copyright (c) 2026 Jobelix
+END USER LICENSE AGREEMENT (EULA)
+Last Updated: January 2026
 
-All rights reserved.
+1. AGREEMENT
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and Jobelix ("Company") regarding the use of the Jobelix software ("Software"). By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement.
 
-The computer program "Jobelix" and all associated files and documentation 
-available in this repository are the copyrighted property of Jobelix.
+2. GRANT OF LICENSE
+Jobelix grants you a revocable, non-exclusive, non-transferable, limited license to download, install, and use the Software solely for your personal or internal business purposes strictly in accordance with the terms of this Agreement.
 
-You are granted a limited, non-exclusive license to download and install 
-this software for personal use only.
+3. RESTRICTIONS
+You agree not to, and you will not permit others to:
+   a) License, sell, rent, lease, assignment, distribute, transmit, host, outsource, disclose, or otherwise commercially exploit the Software or make the Software available to any third party.
+   b) Modify, make derivative works of, disassemble, decrypt, reverse compile, or reverse engineer any part of the Software.
+   c) Remove, alter, or obscure any proprietary notice (including any notice of copyright or trademark) of Jobelix or its affiliates, partners, suppliers, or the licensors of the Software.
 
-You may NOT:
-1. Decompile, reverse engineer, disassemble, or attempt to derive the source code of this software.
-2. Modify, adapt, translate, or create derivative works of the software.
-3. Redistribute, sell, rent, lease, or sub-license the software to any third party.
+4. INTELLECTUAL PROPERTY
+The Software, including without limitation all copyrights, patents, trademarks, trade secrets, and other intellectual property rights are, and shall remain, the sole and exclusive property of Jobelix.
 
-THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+5. TERMINATION
+This Agreement is effective until terminated. Your rights under this Agreement will terminate automatically without notice from Jobelix if you fail to comply with any term(s) of this Agreement. Upon termination of the Agreement, you shall cease all use of the Software and destroy all copies, full or partial, of the Software.
+
+6. DISCLAIMER OF WARRANTY
+THE SOFTWARE IS PROVIDED TO YOU "AS IS" AND "AS AVAILABLE" AND WITH ALL FAULTS AND DEFECTS WITHOUT WARRANTY OF ANY KIND. TO THE MAXIMUM EXTENT PERMITTED UNDER APPLICABLE LAW, JOBELIX EXPRESSLY DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE.
+
+7. LIMITATION OF LIABILITY
+IN NO EVENT SHALL JOBELIX BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, LOSS OF DATA OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+Copyright (c) 2026 The Jobelix Team. All rights reserved.
